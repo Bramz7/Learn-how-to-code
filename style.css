@@ -98,6 +98,10 @@ body{
     background: #66CC66;
     color: white;
     transition: .4s ease;
+    border-left: none;
+    border-top: none;
+    border-right: none;
+    border-bottom: none;
 }
 .btn:hover{
     background-color: hsl(249, 10%, 26%);
@@ -109,6 +113,7 @@ body{
     padding-top: 17px;
     color: grey;
     text-align: center;
+    
 }
 
   
