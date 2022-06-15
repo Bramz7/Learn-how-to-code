@@ -1,0 +1,115 @@
+*{
+
+    margin: 0;
+    padding: 0;
+    
+    
+}
+body{
+    background: linear-gradient( hsl(0, 100%, 74%), hsl(154, 59%, 51%));
+}
+.main{
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+    background: url('images/bg-intro-desktop.png') ;
+    
+    
+}
+.navbar{
+    width: 1200px;
+    height: 75px;
+    margin: auto;
+}
+.icon{
+    width: 200px;
+    float: left;
+    height: 70px;
+}
+.content{
+    width: 1200px;
+    height: auto;
+    margin: auto;
+    color: white;
+    position: relative;
+}
+.content .par{
+    padding-left: 20px;
+    padding-top: 0px;
+    font-family: poppins;
+    letter-spacing: 1.2px;
+    
+}
+.Learn{
+    padding-left: 20px;
+    padding-top: 240px;
+    font-family: 'Poppins';
+    letter-spacing: 2.0px;
+}
+.cn{
+    width: 450px;
+    height: 35px;
+    background: purple;
+    border: none;
+    margin-bottom: 40px;
+    margin-left: 600px;
+    margin-top: -345px;
+    padding-top: 15px;
+    font-size: 16px;
+    border-radius: 10px;
+    text-align: center;
+    color: white;
+    font-family: 'Poppins', sans-serif;
+    transition: .4s ease;
+    
+}
+.cn:hover{
+    background-color: green;
+}
+.form{
+    width: 400px;
+    height: 320px;
+    background: white;
+    position: absolute;
+    top: -20px;
+    left: 870px;
+    padding: 25px;
+    margin-top: 170px;
+    margin-left: -270px;
+    
+}
+.form input{
+    width: 390px;
+    height: 35px;
+    font-size: 16px;
+    font-weight: bold;
+    letter-spacing: 1px;
+    font-family: poppins;
+    margin-top: 17px;
+
+}
+.btn{
+    width: 394px;
+    height: 35px;
+    margin-top: 17px;
+    font-size: 16px;
+    font-weight: bold;
+    background: #66CC66;
+    color: white;
+    transition: .4s ease;
+}
+.btn:hover{
+    background-color: hsl(249, 10%, 26%);
+}
+
+.link{
+    font-family: poppins;
+    font-size: 10px;
+    padding-top: 17px;
+    color: grey;
+    text-align: center;
+}
+
+  
+  
